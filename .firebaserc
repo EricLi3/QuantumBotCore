@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "rex-chabot",
+    "test": "rex-chabot"
+  },
+  "targets":{},
+  "etags":{}
+}
